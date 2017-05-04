@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-05-04T23:32:47.060Z'
+datePublished: '2017-05-04T23:33:28.145Z'
 sourcePath: _posts/2016-12-06-adam-saltiel.md
 inFeed: true
 isBasedOnUrl: >-
@@ -7,7 +7,7 @@ isBasedOnUrl: >-
 hasPage: false
 author: []
 via: {}
-dateModified: '2017-05-04T23:32:46.564Z'
+dateModified: '2017-05-04T23:33:27.688Z'
 title: Adam Saltiel
 publisher: {}
 description: >-
@@ -42,7 +42,7 @@ Some have said that the work of the therapeutic session is to help the individua
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzKS6pzEm149LLycxL1S1OLUgsSizJLzKq5uLKSM1MzyixMiqosObiSkpMzk4vyi_NS7FSdrF0NnN2BAnmF6WkFukm5ZeU5OdaGRZUKBTn52SmKCBU1HLZ6ENt4LJJySxTSM5JLC62VUKzTcnORh8oawcADzguNA" height="4" style=""></iframe>
 
-A person can be in conflict with them selves, with what they are telling themsleves. Sometimes a person may fall silent. There is a lot, then, to the idea that in therapy the focus is on what is said in the room, between two people or within a group of people. That is in understanding the various aspects of ourselves and the conflicts that can arise within us or, when looking at a group and in family dynamics, between ourselves.
+A person can be in conflict with themselves, with what they are telling themsleves. Sometimes a person may fall silent. There is a lot, then, to the idea that in therapy the focus is on what is said in the room, between two people or within a group of people. That is in understanding the various aspects of ourselves and the conflicts that can arise within us or, when looking at a group and in family dynamics, between ourselves.
 
 That part of ourselves that I call the inner world is essential to us and very valuable.
 
