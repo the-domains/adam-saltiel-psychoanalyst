@@ -1,0 +1,60 @@
+layout_spectrum: 0.7959872930154832
+typography_spectrum: 0.3720165692526146
+color:
+  brandStrength: 0.9982517731104894
+  lightness: 0.8356775680185285
+  saturation: 0.07734920248315477
+  rhythmicContrast: 0.036522217629440495
+  brandColors:
+    - '#F7F2B2'
+    - '#ADCF4F'
+    - '#84815B'
+    - '#4A1A2C'
+    - '#8E3557'
+author:
+  email: adamsaltiel@psycho-analysis.clinic
+  name: Adam Saltiel All Rights Reserved ©️ Configuration Science Ltd 2017
+  url: 'http://configurationscience.co.uk/'
+name: Adam Saltiel Psychoanalyst
+navigation:
+  - name: Psychotherapy
+    id: d7dd4a7e-7718-4836-934f-7f270e336ae8
+    type: content
+  - name: The Clinic
+    url: 'https://psycho-analysis.clinic'
+    type: external
+title: Psychotherapeutic Help
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f9d3f37-8d0e-43c9-8839-bfe7e7a74fcd.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f9d3f37-8d0e-43c9-8839-bfe7e7a74fcd.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Psychoanalyst (Arbours Trained) with over thirty-five years experience.
+purpose:
+  - type: contact
+    url: 'mailto:adamsaltiel@psycho-analysis.clinic'
+    label: Contact me
+  - type: contact
+    url: 'tel:07813805316'
+    label: Call
+github: true
