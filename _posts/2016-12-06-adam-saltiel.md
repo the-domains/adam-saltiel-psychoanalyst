@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-05-04T23:18:58.794Z'
+datePublished: '2017-05-04T23:23:56.730Z'
 sourcePath: _posts/2016-12-06-adam-saltiel.md
 inFeed: true
 isBasedOnUrl: >-
@@ -7,7 +7,7 @@ isBasedOnUrl: >-
 hasPage: false
 author: []
 via: {}
-dateModified: '2017-05-04T23:18:58.268Z'
+dateModified: '2017-05-04T23:23:56.311Z'
 title: Adam Saltiel
 publisher: {}
 description: >-
@@ -28,19 +28,21 @@ _type: MediaObject
 
 I work with individuals, couples and families as well as, where there is the need, in companies.
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzKS6pzEm149LLycxL1S1OLUgsSizJLzKo5uLKSM1MzyixMiqosObiSkpMzk4vyi_NS7FSdrF0NnN2BAnmF6WkFukm5ZeU5OdaGRZUKBTn52SmKCBU1HLZ6ENt4LJJySxTSM5JLC62VUKzTcnORh8oawcADjguMA" height="4" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="4" style=""></iframe>
 
 I work in the areas of sexuality, sexual identity, loss, displacement including cultural loss and identity, with a spectrum of personality disorders, as well as past physical or sexual abuse.
 
 My experience is in working, using a broad range of ideas, to create an understanding of our inner worlds and in order to help individuals develop and grow.
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzKS6pzEm141IAAr2czLxU3eLUgsSixJL8IuNqLq6M1Mz0jBIro4IKay6upMTk7PSi_NK8FCtlEyNDcxMjkGB-UUpqkW5SfklJfq6VYUGFQnF-TmaKAkJFLZeNPtQWm5TMMoXknMTiYlslNMuU7Gz0gbJ2ABTzLiA" height="4" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzKS6pzEm141IAAr2czLxU3eLUgsSixJL8IsNqLq6M1Mz0jBIro4IKay6upMTk7PSi_NK8FCtlEyNDcxMjkGB-UUpqkW5SfklJfq6VYUGFQnF-TmaKAkJFLZeNPtQWm5TMMoXknMTiYlslNMuU7Gz0gbJ2ABP1Lhw" height="4" style=""></iframe>
 
 I work with people to help their communication and understanding with others by understanding themselves.
 
 Some have said that the work of the therapeutic session is to help the individual turn a monologue where only one person is talking, into a dialogue, which is talking to more than one person.
 
-Some people have a lot to say to themsleves. Sometimes a person can be in conflict with them selves, with what they are telling themsleves. Sometimes a person may fall silent. There is a lot, then, to the idea that in therapy the focus is on what is said in the room, between two people or within a group of people. That is in understanding the various aspects of ourselves and the conflicts that can arise within us or, when looking at a group and in family dynamics, between ourselves.
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzKS6pzEm149LLycxL1S1OLUgsSizJLzKq5uLKSM1MzyixMiqosObiSkpMzk4vyi_NS7FSdrF0NnN2BAnmF6WkFukm5ZeU5OdaGRZUKBTn52SmKCBU1HLZ6ENt4LJJySxTSM5JLC62VUKzTcnORh8oawcADzguNA" height="4" style=""></iframe>
+
+A person can be in conflict with them selves, with what they are telling themsleves. Sometimes a person may fall silent. There is a lot, then, to the idea that in therapy the focus is on what is said in the room, between two people or within a group of people. That is in understanding the various aspects of ourselves and the conflicts that can arise within us or, when looking at a group and in family dynamics, between ourselves.
 
 That part of ourselves that I call the inner world is essential to us and very valuable.
 
@@ -49,6 +51,8 @@ I work with people to try to help them to appreciate that value, the very partic
 If someone is only talking, but not listening to themselves, that can be lonely and frustrating. An isolated person will feel vulnerable.
 
 Isolation expresses itself in different ways.
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzKS6pzEm149LLycxL1S1OLUgsSizJLzKu5uLKSM1MzyixMiqosObiSkpMzk4vyi_NS7FSdrF0NnN2BAnmF6WkFukm5ZeU5OdaGRZUKBTn52SmKCBU1HLZ6ENt4LJJySxTSM5JLC62VUKzTcnORh8oawcAD7guNg" height="4" style=""></iframe>
 
 Some people may not have sufficient contact with others. While other people may be swimming in a sea of advice from others which is overwhelming, or "advice" from themselves. That may not be helpful.
 
