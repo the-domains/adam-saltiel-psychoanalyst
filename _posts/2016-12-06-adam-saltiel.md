@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-05-04T22:15:41.879Z'
+datePublished: '2017-05-04T23:17:55.275Z'
 sourcePath: _posts/2016-12-06-adam-saltiel.md
 inFeed: true
 isBasedOnUrl: >-
@@ -7,7 +7,7 @@ isBasedOnUrl: >-
 hasPage: false
 author: []
 via: {}
-dateModified: '2017-05-04T22:15:41.416Z'
+dateModified: '2017-05-04T23:17:54.768Z'
 title: Adam Saltiel
 publisher: {}
 description: >-
@@ -40,7 +40,7 @@ I work with people to help their communication and understanding with others by 
 
 Some have said that the work of the therapeutic session is to help the individual turn a monologue where only one person is talking, into a dialogue, which is talking to more than one person.
 
-Although I also work with people where there is are multiple discourses within them, there is a lot to the idea that in therapy the focus is on what is said in the room, between two people or within a group of people. That is in understanding the various aspects of ourselves and the conflicts that can arise within us or, when looking at a group and in family dynamics, between ourselves.
+Some people have a lot to say to themsleves. Sometimes a person can be in conflict with themselves, with what they are telling themsleves. Sometimes a person may fall silent. There is a lot, then, to the idea that in therapy the focus is on what is said in the room, between two people or within a group of people. That is in understanding the various aspects of ourselves and the conflicts that can arise within us or, when looking at a group and in family dynamics, between ourselves.
 
 That part of ourselves that I call the inner world is essential to us and very valuable.
 
