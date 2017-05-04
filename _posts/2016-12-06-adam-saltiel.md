@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-05-04T22:09:06.323Z'
+datePublished: '2017-05-04T22:15:41.879Z'
 sourcePath: _posts/2016-12-06-adam-saltiel.md
 inFeed: true
 isBasedOnUrl: >-
@@ -7,14 +7,14 @@ isBasedOnUrl: >-
 hasPage: false
 author: []
 via: {}
-dateModified: '2017-05-04T22:02:56.772Z'
+dateModified: '2017-05-04T22:15:41.416Z'
 title: Adam Saltiel
 publisher: {}
 description: >-
   I work with individuals, couples and families as well as, where there is the
   need, in companies.
 starred: true
-datePublishedOriginal: '2017-05-04T22:09:06.323Z'
+datePublishedOriginal: '2016-12-06T23:24:51.027Z'
 _type: MediaObject
 
 ---
@@ -69,10 +69,5 @@ I have competencies working with a spectrum of troubling issues, sexual, compuls
 I can help with problems between someone and their partner, husband and wife, as well as between people in a family (mother and father, parents and child).
 
 I also offer group and individual supervision.
-[⇾][0]
 
 ---
-
-
-
-[0]: http://adamsaltiel.psycho-analysis.clinic/adam-saltiel
