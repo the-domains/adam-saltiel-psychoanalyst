@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-05-04T23:24:36.691Z'
+datePublished: '2017-05-04T23:32:47.060Z'
 sourcePath: _posts/2016-12-06-adam-saltiel.md
 inFeed: true
 isBasedOnUrl: >-
@@ -7,7 +7,7 @@ isBasedOnUrl: >-
 hasPage: false
 author: []
 via: {}
-dateModified: '2017-05-04T23:24:36.185Z'
+dateModified: '2017-05-04T23:32:46.564Z'
 title: Adam Saltiel
 publisher: {}
 description: >-
@@ -68,7 +68,7 @@ People who see me gradually come to know themselves and to accept themselves. To
 
 As we work together "cross-culturally", across the divide that both separates and binds us all, the cultural aspect serves to inform and enrich the therapy sessions. Here we develop a collaboration that begins to consider similarities and differences between ourselves and others.
 
-I have competencies working with a spectrum of troubling issues, sexual, compulsive, obsessive, depression, lingering sadness, that is depression, anxiety and frequent or unmanageable feelings of vulnerability and fear.
+I have competencies in working with a spectrum of troubling issues, sexual, compulsive, obsessive, depression, lingering sadness, that is depression, anxiety and frequent or unmanageable feelings of vulnerability and fear.
 
 I can help with problems between someone and their partner, husband and wife, as well as between people in a family (mother and father, parents and child).
 
