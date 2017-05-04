@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-05-04T23:33:28.145Z'
+datePublished: '2017-05-04T23:34:33.030Z'
 sourcePath: _posts/2016-12-06-adam-saltiel.md
 inFeed: true
 isBasedOnUrl: >-
@@ -7,7 +7,7 @@ isBasedOnUrl: >-
 hasPage: false
 author: []
 via: {}
-dateModified: '2017-05-04T23:33:27.688Z'
+dateModified: '2017-05-04T23:34:32.568Z'
 title: Adam Saltiel
 publisher: {}
 description: >-
@@ -73,5 +73,6 @@ I have competencies in working with a spectrum of troubling issues, sexual, comp
 I can help with problems between someone and their partner, husband and wife, as well as between people in a family (mother and father, parents and child).
 
 I also offer group and individual supervision.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/573e055c-eccc-4b3d-86a0-8700b87ef4b8.jpg)
 
 ---
