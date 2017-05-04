@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-05-04T23:35:44.309Z'
+datePublished: '2017-05-04T23:40:38.267Z'
 sourcePath: _posts/2016-12-06-adam-saltiel.md
 inFeed: true
 isBasedOnUrl: >-
@@ -7,7 +7,7 @@ isBasedOnUrl: >-
 hasPage: false
 author: []
 via: {}
-dateModified: '2017-05-04T23:35:43.888Z'
+dateModified: '2017-05-04T23:40:37.411Z'
 title: Adam Saltiel
 publisher: {}
 description: >-
@@ -28,9 +28,13 @@ _type: MediaObject
 
 I work with individuals, couples and families as well as, where there is the need, in companies.
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="4" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzKS6pzEm141IAAr2czLxU3eLUgsSixJL8IoNqLq6M1Mz0jBIro4IKay6upMTk7PSi_NK8FCtlEyNDcxMjkGB-UUpqkW5SfklJfq6VYUGFQnF-TmaKAkJFLZeNPtQWm5TMMoXknMTiYlslNMuU7Gz0gbJ2ABN2Lho" height="4" style=""></iframe>
 
 I work in the areas of sexuality, sexual identity, loss, displacement including cultural loss and identity, with a spectrum of personality disorders, as well as past physical or sexual abuse.
+
+I have competencies in working with a spectrum of troubling issues, sexual, compulsive, obsessive, depression, lingering sadness, that is depression, anxiety and frequent or unmanageable feelings of vulnerability and fear.
+
+I can help with problems between someone and their partner, husband and wife, as well as between people in a family (mother and father, parents and child).
 
 My experience is in working, using a broad range of ideas, to create an understanding of our inner worlds and in order to help individuals develop and grow.
 
@@ -68,10 +72,6 @@ I find it necessary to begin to explore this unknown, although this can be a pai
 People who see me gradually come to know themselves and to accept themselves. Together we make an attempt to link this new understanding of themselves with their life and the people around who are important to them.
 
 As we work together "cross-culturally", across the divide that both separates and binds us all, the cultural aspect serves to inform and enrich the therapy sessions. Here we develop a collaboration that begins to consider similarities and differences between ourselves and others.
-
-I have competencies in working with a spectrum of troubling issues, sexual, compulsive, obsessive, depression, lingering sadness, that is depression, anxiety and frequent or unmanageable feelings of vulnerability and fear.
-
-I can help with problems between someone and their partner, husband and wife, as well as between people in a family (mother and father, parents and child).
 
 I also offer group and individual supervision.
 
