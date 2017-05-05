@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-05-05T08:54:53.285Z'
+datePublished: '2017-05-05T08:56:29.154Z'
 sourcePath: _posts/2016-12-06-adam-saltiel.md
 inFeed: true
 isBasedOnUrl: >-
@@ -7,7 +7,7 @@ isBasedOnUrl: >-
 hasPage: false
 author: []
 via: {}
-dateModified: '2017-05-05T08:54:52.878Z'
+dateModified: '2017-05-05T08:56:28.728Z'
 title: Adam Saltiel
 publisher: {}
 description: >-
@@ -50,7 +50,8 @@ A person can be in conflict with themselves, with what they are telling themslev
 
 Sometimes a person may fall silent.
 
-There is a lot, then, to the idea that in therapy the focus is on what is said in the room, between two people or within a group of people.  
+There is a lot, then, to the idea that in therapy the focus is on what is said in the room.  
+Between two people or within a group of people.  
 That is in understanding the various aspects of ourselves and the conflicts that can arise within us.
 
 Or, when looking at a group and in family dynamics, between ourselves.
