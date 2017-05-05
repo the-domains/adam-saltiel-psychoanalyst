@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-05-05T09:11:12.678Z'
+datePublished: '2017-05-05T09:12:39.569Z'
 sourcePath: _posts/2016-12-06-adam-saltiel.md
 inFeed: true
 isBasedOnUrl: >-
@@ -7,7 +7,7 @@ isBasedOnUrl: >-
 hasPage: false
 author: []
 via: {}
-dateModified: '2017-05-05T09:11:12.212Z'
+dateModified: '2017-05-05T09:12:38.983Z'
 title: Adam Saltiel
 publisher: {}
 description: >-
@@ -84,5 +84,8 @@ As we work together "cross-culturally", across the divide that both separates an
 Here we develop a collaboration that begins to consider similarities and differences between ourselves and others.
 
 I also offer group and individual supervision.
+
+Adam Saltiel  
+UKCP Reg. 2011163973 ARBS
 
 ---
