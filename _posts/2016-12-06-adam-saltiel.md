@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-05-05T08:56:29.154Z'
+datePublished: '2017-05-05T09:00:29.886Z'
 sourcePath: _posts/2016-12-06-adam-saltiel.md
 inFeed: true
 isBasedOnUrl: >-
@@ -7,7 +7,7 @@ isBasedOnUrl: >-
 hasPage: false
 author: []
 via: {}
-dateModified: '2017-05-05T08:56:28.728Z'
+dateModified: '2017-05-05T09:00:29.377Z'
 title: Adam Saltiel
 publisher: {}
 description: >-
@@ -46,7 +46,7 @@ Some have said that the work of the therapeutic session is to help the individua
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzKS6pzEm149LLycxL1S1OLUgsSizJLzKq5uLKSM1MzyixMiqosObiSkpMzk4vyi_NS7FSdrF0NnN2BAnmF6WkFukm5ZeU5OdaGRZUKBTn52SmKCBU1HLZ6ENt4LJJySxTSM5JLC62VUKzTcnORh8oawcADzguNA" height="4" style=""></iframe>
 
-A person can be in conflict with themselves, with what they are telling themsleves.
+A person can be in conflict with themselves, with what they are telling themselves.
 
 Sometimes a person may fall silent.
 
