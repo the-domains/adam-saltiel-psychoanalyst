@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-05-04T23:40:38.267Z'
+datePublished: '2017-05-05T08:49:50.519Z'
 sourcePath: _posts/2016-12-06-adam-saltiel.md
 inFeed: true
 isBasedOnUrl: >-
@@ -7,7 +7,7 @@ isBasedOnUrl: >-
 hasPage: false
 author: []
 via: {}
-dateModified: '2017-05-04T23:40:37.411Z'
+dateModified: '2017-05-05T08:49:50.009Z'
 title: Adam Saltiel
 publisher: {}
 description: >-
@@ -42,7 +42,7 @@ My experience is in working, using a broad range of ideas, to create an understa
 
 I work with people to help their communication and understanding with others by understanding themselves.
 
-Some have said that the work of the therapeutic session is to help the individual turn a monologue where only one person is talking, into a dialogue, which is talking to more than one person.
+Some have said that the work of the therapeutic session is to help the individual turn a monologue, where only one person is talking, into a dialogue where more than one person are talking together.
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzKS6pzEm149LLycxL1S1OLUgsSizJLzKq5uLKSM1MzyixMiqosObiSkpMzk4vyi_NS7FSdrF0NnN2BAnmF6WkFukm5ZeU5OdaGRZUKBTn52SmKCBU1HLZ6ENt4LJJySxTSM5JLC62VUKzTcnORh8oawcADzguNA" height="4" style=""></iframe>
 
