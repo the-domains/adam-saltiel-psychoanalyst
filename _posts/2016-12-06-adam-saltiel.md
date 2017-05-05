@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-05-05T08:54:16.563Z'
+datePublished: '2017-05-05T08:54:53.285Z'
 sourcePath: _posts/2016-12-06-adam-saltiel.md
 inFeed: true
 isBasedOnUrl: >-
@@ -7,7 +7,7 @@ isBasedOnUrl: >-
 hasPage: false
 author: []
 via: {}
-dateModified: '2017-05-05T08:54:15.867Z'
+dateModified: '2017-05-05T08:54:52.878Z'
 title: Adam Saltiel
 publisher: {}
 description: >-
@@ -79,7 +79,8 @@ I find it necessary to begin to explore this unknown, although this can be a pai
 
 People who see me gradually come to know themselves and to accept themselves. Together we make an attempt to link this new understanding of themselves with their life and the people around who are important to them.
 
-As we work together "cross-culturally", across the divide that both separates and binds us all, the cultural aspect serves to inform and enrich the therapy sessions. Here we develop a collaboration that begins to consider similarities and differences between ourselves and others.
+As we work together "cross-culturally", across the divide that both separates and binds us all, the cultural aspect serves to inform and enrich the therapy sessions.  
+Here we develop a collaboration that begins to consider similarities and differences between ourselves and others.
 
 I also offer group and individual supervision.
 
