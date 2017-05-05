@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-05-05T09:14:40.579Z'
+datePublished: '2017-05-05T09:16:34.583Z'
 sourcePath: _posts/2016-12-06-adam-saltiel.md
 inFeed: true
 isBasedOnUrl: >-
@@ -7,7 +7,7 @@ isBasedOnUrl: >-
 hasPage: false
 author: []
 via: {}
-dateModified: '2017-05-05T09:14:40.137Z'
+dateModified: '2017-05-05T09:16:34.108Z'
 title: Adam Saltiel
 publisher: {}
 description: >-
@@ -76,7 +76,7 @@ Often what is hidden and seems lost hides painful experiences.
 
 We must over time come to trust ourselves and the other person sitting in the room with us.
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzKS6pzEm149LLycxL1S1OLUgsSizJLzKp5uLKSM1MzyixMi6osObiSkpMzk4vyi_NS7FSdrF0NnN2BAnmF6WkFukm5ZeU5OdaGRZUKBTn52SmKCBU1HLZ6ENt4LJJySxTSM5JLC62VUKzTcnORh8oawcAEKQuOQ" height="4" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxdjUEKwjAQAO_7ilDPbWmICDHmL2mztMHYDdlVKuLfVRAErzMD41juGT10Oa3YMpZQg1A1D4AF07yI1d2-bEeAMUznudJ1jXZn9HAw-gOpRqztSCJ0sUPZFFNOUf2KJ7j--wAX001NOTCfmr9f413_tv4FLAAuDw" height="4" style=""></iframe>
 
 I find it necessary to begin to explore this unknown, although this can be a painful journey.
 
