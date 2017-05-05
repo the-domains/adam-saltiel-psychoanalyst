@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-05-05T09:09:49.172Z'
+datePublished: '2017-05-05T09:11:12.678Z'
 sourcePath: _posts/2016-12-06-adam-saltiel.md
 inFeed: true
 isBasedOnUrl: >-
@@ -7,7 +7,7 @@ isBasedOnUrl: >-
 hasPage: false
 author: []
 via: {}
-dateModified: '2017-05-05T09:09:48.675Z'
+dateModified: '2017-05-05T09:11:12.212Z'
 title: Adam Saltiel
 publisher: {}
 description: >-
