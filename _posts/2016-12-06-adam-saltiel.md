@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-05-05T08:52:25.738Z'
+datePublished: '2017-05-05T08:54:16.563Z'
 sourcePath: _posts/2016-12-06-adam-saltiel.md
 inFeed: true
 isBasedOnUrl: >-
@@ -7,7 +7,7 @@ isBasedOnUrl: >-
 hasPage: false
 author: []
 via: {}
-dateModified: '2017-05-05T08:52:25.203Z'
+dateModified: '2017-05-05T08:54:15.867Z'
 title: Adam Saltiel
 publisher: {}
 description: >-
@@ -46,7 +46,14 @@ Some have said that the work of the therapeutic session is to help the individua
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzKS6pzEm149LLycxL1S1OLUgsSizJLzKq5uLKSM1MzyixMiqosObiSkpMzk4vyi_NS7FSdrF0NnN2BAnmF6WkFukm5ZeU5OdaGRZUKBTn52SmKCBU1HLZ6ENt4LJJySxTSM5JLC62VUKzTcnORh8oawcADzguNA" height="4" style=""></iframe>
 
-A person can be in conflict with themselves, with what they are telling themsleves. Sometimes a person may fall silent. There is a lot, then, to the idea that in therapy the focus is on what is said in the room, between two people or within a group of people. That is in understanding the various aspects of ourselves and the conflicts that can arise within us. Or, when looking at a group and in family dynamics, between ourselves.
+A person can be in conflict with themselves, with what they are telling themsleves.
+
+Sometimes a person may fall silent.
+
+There is a lot, then, to the idea that in therapy the focus is on what is said in the room, between two people or within a group of people.  
+That is in understanding the various aspects of ourselves and the conflicts that can arise within us.
+
+Or, when looking at a group and in family dynamics, between ourselves.
 
 That part of ourselves I call the inner world is essential to us and very valuable.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/573e055c-eccc-4b3d-86a0-8700b87ef4b8.jpg)
@@ -59,7 +66,8 @@ Isolation expresses itself in different ways.
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzKS6pzEm149LLycxL1S1OLUgsSizJLzKu5uLKSM1MzyixMiqosObiSkpMzk4vyi_NS7FSdrF0NnN2BAnmF6WkFukm5ZeU5OdaGRZUKBTn52SmKCBU1HLZ6ENt4LJJySxTSM5JLC62VUKzTcnORh8oawcAD7guNg" height="4" style=""></iframe>
 
-Some people may not have sufficient contact with others. While other people may be swimming in a sea of advice from others which is overwhelming, or "advice" from themselves. That may not be helpful.
+Some people may not have sufficient contact with others. While other people may be swimming in a sea of advice from others which is overwhelming, or "advice" from themselves.  
+That may not be helpful.
 
 I believe in helping people to help themselves find and understand the value of what might go unnoticed and be hidden or lost within them.
 
