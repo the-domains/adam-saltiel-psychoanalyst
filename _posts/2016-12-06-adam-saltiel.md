@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-05-05T09:16:34.583Z'
+datePublished: '2017-05-05T09:18:26.974Z'
 sourcePath: _posts/2016-12-06-adam-saltiel.md
 inFeed: true
 isBasedOnUrl: >-
@@ -7,7 +7,7 @@ isBasedOnUrl: >-
 hasPage: false
 author: []
 via: {}
-dateModified: '2017-05-05T09:16:34.108Z'
+dateModified: '2017-05-05T09:18:26.496Z'
 title: Adam Saltiel
 publisher: {}
 description: >-
@@ -78,7 +78,7 @@ We must over time come to trust ourselves and the other person sitting in the ro
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxdjUEKwjAQAO_7ilDPbWmICDHmL2mztMHYDdlVKuLfVRAErzMD41juGT10Oa3YMpZQg1A1D4AF07yI1d2-bEeAMUznudJ1jXZn9HAw-gOpRqztSCJ0sUPZFFNOUf2KJ7j--wAX001NOTCfmr9f413_tv4FLAAuDw" height="4" style=""></iframe>
 
-I find it necessary to begin to explore this unknown, although this can be a painful journey.
+I find it necessary to begin to explore this unknown, although that can be a painful journey.
 
 People who see me gradually come to know themselves and to accept themselves. Together we make an attempt to link this new understanding of themselves with their life and the people around who are important to them.
 
