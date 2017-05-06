@@ -58,3 +58,5 @@ purpose:
     url: 'tel:07813805316'
     label: Call
 github: true
+analytics:
+  google: UA-98676236-1
