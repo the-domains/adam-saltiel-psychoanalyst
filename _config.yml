@@ -53,7 +53,7 @@ description: Psychoanalyst (Arbours Trained) with over thirty-five years experie
 purpose:
   - type: contact
     url: 'mailto:adamsaltiel@psychoanalysis.clinic'
-    label: Contact me
+    label: Contact
   - type: contact
     url: 'tel:07813805316'
     label: Call
