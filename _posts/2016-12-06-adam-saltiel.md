@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-05-08T19:56:07.267Z'
+datePublished: '2017-05-08T19:58:40.946Z'
 sourcePath: _posts/2016-12-06-adam-saltiel.md
 inFeed: true
 isBasedOnUrl: >-
@@ -7,7 +7,7 @@ isBasedOnUrl: >-
 hasPage: false
 author: []
 via: {}
-dateModified: '2017-05-08T19:56:06.639Z'
+dateModified: '2017-05-08T19:58:40.271Z'
 title: Adam Saltiel
 publisher: {}
 description: >-
@@ -87,7 +87,7 @@ Here we develop a collaboration that begins to consider similarities and differe
 
 I also offer group and individual supervision.
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyFk1Fv2jAUhd_5FZe8ANVINtFJ1UaQGETtqq50GtIeEIqMY8Dg2JltCNHEf981ITRamfaYm-Pr71yf2292u3Cv1EowGKmEwVJpiFLCBX7KPdOGKwkvZMUaXyUUaqdhbVMBGVbeAUkSsGsGRvIsYxaITIASIRor7BhrliltY_raJ18zCUalTEkGVHC6NYBlbNGga2Xwp-ByC4iw2FmrpA_d7qDRN1TzzIItMhZ6lh1ssCF7Ula9QQMguIF-czYaD6fDGdwEWDkBnLHiPdEGQljuJLWI0e7Ab5QAYB1y_JFzmaj886mW-6vTNGrYMU9QdPex9-Gu9_729t86QRZMoNT7EfPt6LF44TL6fnic_hKrb95fxzRLid4yy-UqVlIUjo8Iw5zs6CwFMJ7A82QKo4fh830E04cIRpNxBF-ip8lPv_L4dsg1ozstKq9vBtLunIlO5q-4wSSkxDo7vTO8m5fKXEmyHCaLDaO2aoN1H30oksQuAQtCt9dGzpfQdu-oliVcM4TWTiZsySVLWpXqQiUUJbY0hfLypuN5Qo7G4cZrjJ1g-vKQs9bZjNVI8Rrj1tw1qBHUT3cgRJSK90JSl7TRY6d8n2MDIzefD1zY-kGZxP8FFQ8aTUMvCPK8mjdJDNN7TpnxqUoDt1UkCWqPQEwhqb8xGPPaPeV24Oqcdij0rieh3Vpbm5lPQZCZAverSyQRheF4F64Zp62OB4PoQNIMl__JZbfZD8rWgz8MGVwE" height="24" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyFlFFv2jAQx9_5FEdegGokm2BStREkRqN2VVc6DWkPCEXGMWBw7Mw2BDTx3XdOCI1Wpj3mfD7__nf_y6DZ7cK9UivBYKwSBkulIUoJF_gp90wbriS8kBVrfJVwVDsNa5sKyDDyDkiSgF0zMJJnGbNAZAKUCNFYYcVYs0xpG9PXOvmaSTAqZUoyoILTrQEMY4kGXSuDh4LLLSDCYmetkj50u8PGwFDNMwv2mLHQs-xggw3ZkzLqDRsAwQ0MmrPx3Wg6msFNgJEC4IwV74k2EMJyJ6lFjHYHfmMKAMYhx4Ocy0Tln4tY7q-KbtSwY55g0u3H3ofb3vt-_995giyYwFTvR8y348fjC5fR98Pj9JdYffP-uqZZSvSWWS5XsZLi6PiIMMylnZykAO4m8DyZwvhh9HwfwfQhgvHkLoIv0dPkp19pfNvkmtCdFpXWNw1pd85EhfgratAJKbFOTu8M7_qlMheSLIfJYsOorcpg3EcdiiSxc8CC0O21lvMltN0c1bKEa4bQ2smELblkSavKulAJRYktRWF6-dLp3CFH43DjNdpOMH0Z5Kx1FmM1UrzauDV3BWoE9dsdCBGl4r2Q1FPaqLFTzufUQMvN50NntkFQOvF_RsWLRtPQC4I8r_pNEsP0nlNmfKrSwG0VSYLaEIg5SupvDNq89k65Hbg6xQ6F3nUntFtrazPzKQhwIn7KDyk5FM-QhKSGCMuZ6PZ7vVbHg2F0IGmGP4En5-HmICifGP4B4S1eEw" height="24" style=""></iframe>
 
 Adam Saltiel  
 UKCP Reg. 2011163973 ARBS
