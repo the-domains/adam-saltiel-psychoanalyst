@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-05-08T20:02:20.399Z'
+datePublished: '2017-05-08T20:05:25.664Z'
 sourcePath: _posts/2016-12-06-adam-saltiel.md
 inFeed: true
 isBasedOnUrl: >-
@@ -7,7 +7,7 @@ isBasedOnUrl: >-
 hasPage: false
 author: []
 via: {}
-dateModified: '2017-05-08T20:02:17.378Z'
+dateModified: '2017-05-08T20:05:24.871Z'
 title: Adam Saltiel
 publisher: {}
 description: >-
@@ -86,8 +86,6 @@ As we work together "cross-culturally", across the divide that both separates an
 Here we develop a collaboration that begins to consider similarities and differences between ourselves and others.
 
 I also offer group and individual supervision.
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyNk9Fv2jAQxt_5K655AaqRbIJJ1UaQOoraVVvpNKQ9VFVk7IO4OHZmGwKa-r_vTKCN1k7bYy6fz7_v7vPwpNeDS2OWCmFsBMLCWJgUTCr61Bu0ThoNt2yJrc8admZtIfeFgpIqb4AJAT5HcFqWJXpgWgBnSrWW1DGzWBrrM_7cp8pRgzMFGo3AleQrB1SmFi2eG0c_ldQrIIT52nujY-j1Rq2h41aWHvyuxDTyuPXJA9uwuhqNWgDJKQxP7sYX57PzOzhNqLIHOGBlG2YdpLBYa-4Jo9OFXyQBoDpU9KOSWpjq475Wxcv9NBrYmRQkOnvff3fWfzsY_F2n2BwVSaPvmVyNr3e3Uk--ba9nP9Xya_THMYsFsyv0Ui8zo9Uu8DHlMMgeg6UELqZwM53B-Or85nICs6sJjKcXE_g0-TL9ER89vhxyw-jaqqPXFwPpdA9Ee_OvuKEkFMwHO_0DfJiXKUNJYwXT-QNyf2xD9Zh8GCaykIA546vXRi4X0Al7NIsa7iSF9loLXEiNon1UPVEpw5mvTZG8vunxMKFAE3CznGKn0D4t8q59MOMtUTzHuH0fGjQImqe7kBLKkfeJpCnpkMduvZ_HFkXu_n4UwjZM6iT-K6h00FmeRklSVcd5M-HQbiRHF3NTJOFVMZE0lsDcTvP4wVHMG_fUr4Oezv4NpdHrSei0c-9L9yFJaCNxIbcF2-6vYYIVjikvUfUG_X67G0FucZFG_6ePRmOmUAtmh0lNMvoNVKFsBw" height="266" style=""></iframe>
 
 Adam Saltiel  
 UKCP Reg. 2011163973 ARBS
