@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-05-08T20:05:25.664Z'
+datePublished: '2017-06-19T10:40:28.702Z'
 sourcePath: _posts/2016-12-06-adam-saltiel.md
 inFeed: true
 isBasedOnUrl: >-
@@ -7,12 +7,10 @@ isBasedOnUrl: >-
 hasPage: false
 author: []
 via: {}
-dateModified: '2017-05-08T20:05:24.871Z'
+dateModified: '2017-06-19T10:40:28.190Z'
 title: Adam Saltiel
 publisher: {}
-description: >-
-  I work with individuals, couples and families as well as, where there is the
-  need, in companies.
+description: 'I work with individuals, couples and families.'
 starred: true
 datePublishedOriginal: '2016-12-06T23:24:51.027Z'
 _type: MediaObject
@@ -26,7 +24,10 @@ _type: MediaObject
 
 ## Arbours Trained Psychoanalyst
 
-I work with individuals, couples and families as well as, where there is the need, in companies.
+I work with individuals, couples and families.
+
+mob: 0781 380 5316  
+tel: 020 8829 0616 
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzKS6pzEm141IAAr2czLxU3eLUgsSixJL8IoNqLq6M1Mz0jBIro4IKay6upMTk7PSi_NK8FCtlEyNDcxMjkGB-UUpqkW5SfklJfq6VYUGFQnF-TmaKAkJFLZeNPtQWm5TMMoXknMTiYlslNMuU7Gz0gbJ2ABN2Lho" height="4" style=""></iframe>
 
@@ -54,7 +55,7 @@ There is a lot, then, to the idea that in therapy the focus is on what is said i
 Between two people or within a group of people.  
 That is in understanding the various aspects of ourselves and the conflicts that can arise within us.
 
-Or, when looking at a group and in family dynamics, between ourselves.
+Or between us, when looking at a group and in family dynamics.
 
 That part of ourselves I call the inner world is essential to us and very valuable.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/573e055c-eccc-4b3d-86a0-8700b87ef4b8.jpg)
