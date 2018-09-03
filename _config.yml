@@ -15,7 +15,7 @@ author:
   email: adamsaltiel@psycho-analysis.clinic
   name: Configuration Science All Rights Reserved ©️ Configuration Science Ltd 2017
   url: 'http://configurationscience.co.uk/'
-name: Adam Saltiel Psychoanalyst 0781 380 5316
+name: Adam Saltiel Psychoanalyst
 navigation:
   - name: Psychotherapy
     id: d7dd4a7e-7718-4836-934f-7f270e336ae8
@@ -56,7 +56,7 @@ purpose:
     label: Contact
   - type: contact
     url: 'tel:07813805316'
-    label: Call
+    label: 'Call: 07813805316'
 github: true
 analytics:
   google: UA-98676236-1
